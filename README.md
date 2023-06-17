@@ -3,21 +3,17 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoolHo1129%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://github.com/CoolHo1129)   
 Hi! I'm a student interested in Artificial Intelligence.
-#   
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&layout=compact)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)   
-
 # 🖥️  I’m programming with ...
 - LANGUAGE  
     - Main(AI)   
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Pypy-193440?style=plastic&logo=pypy&logoColor=white">       
-    - Sub(Other)    
+    - Sub(Other Study)    
       <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-FB923C?style=flat&logo=OpenJDK&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-FB923C?style=flat&logo=OpenJDK&logoColor=white">   
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&layout=compact)    
 
   
 - IDE   
@@ -54,7 +50,10 @@ Hi! I'm a student interested in Artificial Intelligence.
 - Reinforcement Learning
 - Computer Vision
 - XAI
-
+# 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)
+  
 
 
 
