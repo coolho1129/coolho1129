@@ -14,7 +14,7 @@ Hi! I'm a student interested in Artificial Intelligence.
     - Main(AI)   
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Pypy-193440?style=plastic&logo=pypy&logoColor=white">       
-    - Sub(Other) 
+    - Sub(Other)    
       <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/Java-FB923C?style=flat&logo=OpenJDK&logoColor=white">
