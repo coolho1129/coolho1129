@@ -40,6 +40,7 @@ Hi! I'm a student interested in Artificial Intelligence.
       <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Goolgle Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
     
 
 # 🌱 I’m currently learning ...
