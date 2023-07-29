@@ -4,30 +4,30 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoolHo1129%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://github.com/CoolHo1129)   
 ### Hi! I'm a student interested in Artificial Intelligence.
 # 🖥️  I’m programming with ...
-  - <b>LANGUAGE</b>  
+  - <b>LANGUAGE  
       - Main(AI)   
         <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Pypy-193440?style=plastic&logo=pypy&logoColor=white">       
-      - Sub(Other Study)    
+      - Sub(Other Study) </b>   
         <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-FB923C?style=flat&logo=OpenJDK&logoColor=white">   
       
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&layout=compact&hide=jupyter%20notebook)    
   
-- <b>IDE</b>   
+- <b>IDE
     - Main   
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
       <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">
-    - Sub     
+    - Sub </b>    
       <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white">
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white">
       <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=pycharm&logoColor=white">
     
-- <b>FRAMEWORK</b>
+- <b>FRAMEWORK
     - Main    
       <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">
-    - Sub   
+    - Sub</b>      
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white">
   
