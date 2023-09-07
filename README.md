@@ -43,6 +43,10 @@
 </div>
 <br>
 <div align=center> 
+  <h1>📫Contact📫</h1>
+    <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
+<div align=center> 
   <h1>🤔Interest🤔</h1>
     <b>Computer Vision</b><br> 
     <b>Gernative model</b><br> 
@@ -57,20 +61,34 @@
   <b>Segmentation</b><br>   
   <b>GAN</b><br>  
 </div>
+<br><br>
+
+
+
 <div align=center> 
-  <h1>📫Contact📫</h1>
-    <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook" alt="Top Languages Card">
+
+
+<!-- Solved.ac Profile Badge -->
+<a href="https://solved.ac/coolho123/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
+</a>
+
+
+<!-- Anurag's GitHub Stats Card -->
+<a href="https://github.com/CoolHo1129">
+  <img src="https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github" alt="Anurag's GitHub Stats">
+</a>
+
 </div>
-
-
 
 
 
 <!--github--!>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-# 👍Baekjoon 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook)   
 # 📫 How to reach me: ...
