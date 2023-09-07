@@ -42,7 +42,7 @@
 </div>
 <br><br>
 <div align=center> 
-  <h1>🤔 Interest</h1>
+  <h1>🤔Interest🤔</h1>
     <h3>Machine Learning</h3> 
     <h3>Deep Learning</h3>
     <h3>Reinforcement Learning</h3>
@@ -59,7 +59,7 @@
 </div>
 <br><br>
 <div align=center> 
-  <h1>📫 How to reach me</h1>
+  <h1>📫Contact📫</h1>
     <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 
