@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">
     - Sub </b>    
       <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white">
       <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=pycharm&logoColor=white">
     
 - <b>FRAMEWORK
