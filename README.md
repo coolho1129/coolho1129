@@ -50,11 +50,7 @@
 - Computer Vision
 - XAI</b>
 
-# 👍Baekjoon 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
 
-# 📫 How to reach me: ...
-<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 
@@ -62,6 +58,11 @@
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+# 👍Baekjoon 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
+
+# 📫 How to reach me: ...
+<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 --!>
 
 <!--
