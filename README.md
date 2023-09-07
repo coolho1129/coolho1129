@@ -10,10 +10,10 @@
 </div>
 
 <div align=center>
-  Hi, Everyone.😊 I'm ChanHo Kim 🖐️  <br>
+ <h3> Hi, Everyone.😊 I'm ChanHo Kim 🖐️ </h3>
   I'm majoring in computer science at Kyungpook National University.  <br>
   I'm interested in AI and Computer Vision.   <br>
-  So I am currently working as an undergraduate researcher at VISLAB.  <br>
+  So,I am currently working as an undergraduate researcher at VISLAB.  <br>
 </div>
 
 
