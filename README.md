@@ -16,6 +16,7 @@
   I'm majoring in computer science at Kyungpook National University.  <br>
   I'm interested in AI and Computer Vision.   <br>
   So,I am currently working as an undergraduate researcher at VISLAB.  <br>
+  I'll become a good AI researcher
 </div>
 
 
