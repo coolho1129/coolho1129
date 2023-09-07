@@ -13,8 +13,7 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/Java-FB923C?style=flat&logo=OpenJDK&logoColor=white">   
       
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&layout=compact&hide=jupyter%20notebook)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)    
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook)    
   
 - <b>IDE
     - Main   
