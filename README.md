@@ -50,16 +50,18 @@
 - Computer Vision
 - XAI</b>
 
-### Baekjoon
+# 👍Baekjoon 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
-  
 
+# 📫 How to reach me: ...
+<a mailto="coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 
 
 
 <!--github--!>
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 --!>
 
 <!--
