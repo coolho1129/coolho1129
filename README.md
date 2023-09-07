@@ -47,16 +47,21 @@
     <h3>Deep Learning</h3>
     <h3>Reinforcement Learning</h3>
     <h3>Computer Vision</h3>
-    <h3>XAI</h3>
+    <h3>Gernative model</h3>
 </div>
-
+<br><br>
 <div align=center> 
 <h1>📖Current Study📖</h1>
-  <h3> Artificial Intelligence</h3>
-  <h3>Computer Vision</h3>
-  <h3>Pytorch</h3>
+  <h3>Machine Learning</h3>
+  <h3>Object Detection</h3>
+  <h3>Segmentation</h3>
+  <h3>GAN</h3>
 </div>
-
+<br><br>
+<div align=center> 
+  <h1>📫 How to reach me</h1>
+    <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
 
 
 
@@ -70,8 +75,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook)   
 # 📫 How to reach me: ...
-<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
---!>
+
 
 <!--
 **CoolHo1129/CoolHo1129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
