@@ -1,6 +1,8 @@
 
 <div align=center> 
-<img src="https://capsule-render.vercel.app/api?text=CoolHo's%20Github&type=waving&color=7ebad6&fontColor=ffffff&fontAlignY=35&animation=fadeIn&height=150&section=header" alt="CoolHo's Github Header">
+  <a href="https://github.com/CoolHo1129">
+    <img src="https://capsule-render.vercel.app/api?text=CoolHo's%20Github&type=waving&color=7ebad6&fontColor=ffffff&fontAlignY=35&animation=fadeIn&height=150&section=header" alt="CoolHo's Github Header">
+  </a>
 </div>
 
 <div align=right>
