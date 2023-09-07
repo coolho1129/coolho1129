@@ -50,14 +50,15 @@
 - Computer Vision
 - XAI</b>
 
-
+# Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
   
 
 
 
 
 <!--github--!>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolHo1129&show_icons=true&rank_icon=github)
 --!>
 
