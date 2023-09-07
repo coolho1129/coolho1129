@@ -26,38 +26,37 @@
   <h3> 📚other Tech </h3>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-FB923C?style=for-the-badge&logo=OpenJDK&logoColor=white"><br>   
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-FB923C?style=for-the-badge&logo=OpenJDK&logoColor=white"><br>  
         <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
         <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
     
 </div>  
 <br><br>
 <div align=center> 
   <h1> 👪Cowork Tools👪 </h1>
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <br>   
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <br> 
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
         <img src="https://img.shields.io/badge/Goolgle Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
-<br><br>
+<br>
 <div align=center> 
   <h1>🤔Interest🤔</h1>
-    <h3>Machine Learning</h3> 
-    <h3>Deep Learning</h3>
-    <h3>Reinforcement Learning</h3>
-    <h3>Computer Vision</h3>
-    <h3>Gernative model</h3>
+    <b>Computer Vision</b><br> 
+    <b>Gernative model</b><br> 
+    <b>Deep Learning</b><br> 
+    <b>Machine Learning</b><br> 
+    <b>Reinforcement Learning</b><br> 
 </div>
-<br><br>
 <div align=center> 
 <h1>📖Current Study📖</h1>
-  <h3>Machine Learning</h3>
-  <h3>Object Detection</h3>
-  <h3>Segmentation</h3>
-  <h3>GAN</h3>
+  <b>Machine Learning</b><br> 
+  <b>Object Detection</b><br>   
+  <b>Segmentation</b><br>   
+  <b>GAN</b><br>  
 </div>
-<br><br>
 <div align=center> 
   <h1>📫Contact📫</h1>
     <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
