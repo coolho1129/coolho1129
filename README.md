@@ -54,7 +54,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
 
 # 📫 How to reach me: ...
-<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=Gmail&logoColor=white"/></a>
 
 
 
