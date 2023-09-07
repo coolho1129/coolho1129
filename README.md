@@ -6,36 +6,36 @@
 # 🖥️  I’m programming with ...
   - <b>LANGUAGE  
       - Main(AI)   
-        <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Pypy-193440?style=square&logo=pypy&logoColor=white">       
+        <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Pypy-193440?style=plastic&logo=pypy&logoColor=white">       
       - Sub(Other Study) </b>   
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=square&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=square&logo=cplusplus&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-FB923C?style=square&logo=OpenJDK&logoColor=white">   
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-FB923C?style=plastic&logo=OpenJDK&logoColor=white">   
       
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook)    
   
 - <b>IDE
     - Main   
-      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=visualstudiocode&logoColor=white">
-      <img src="https://img.shields.io/badge/Colab-F9AB00?style=square&logo=googlecolab&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white">
     - Sub </b>    
-      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=square&logo=visualstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=square&logo=intellijidea&logoColor=white">
-      <img src="https://img.shields.io/badge/Pycharm-000000?style=square&logo=pycharm&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=plastic&logo=intellijidea&logoColor=white">
+      <img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=pycharm&logoColor=white">
     
 - <b>FRAMEWORK
     - Main    
-      <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white">
     - Sub</b>      
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=square&logo=tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/Keras-D00000?style=square&logo=keras&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white">
   
 - <b>ETC...</b>     
-      <img src="https://img.shields.io/badge/git-F05032?style=square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/github-181717?style=square&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/Goolgle Drive-4285F4?style=square&logo=googledrive&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=notion&logoColor=white">
+      <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Goolgle Drive-4285F4?style=plastic&logo=googledrive&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white">
     
 
 # 🌱 I’m currently learning ...
@@ -54,7 +54,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123)](https://solved.ac/coolho123/)
 
 # 📫 How to reach me: ...
-<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 
