@@ -13,10 +13,10 @@
 
 <div align=center>
  <h3> Hi, Everyone.😊 I'm ChanHo Kim 🖐️ </h3>
-  I'm majoring in computer science at Kyungpook National University.  <br>
-  I'm interested in AI and Computer Vision.   <br>
-  So,I am currently working as an undergraduate researcher at VISLAB.  <br>
-  I will work hard in research and study to become a good AI researcher.
+ <b>I'm majoring in computer science at Kyungpook National University.</b>  <br>
+ <b>I'm interested in AI and Computer Vision.</b>   <br>
+ <b>So,I am currently working as an undergraduate researcher at VISLAB. </b>  <br>
+ <b>I will work hard in research and study to become a good AI researcher and engineer. </b>
 </div>
 
 
