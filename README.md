@@ -12,7 +12,7 @@
 </div>
 
 <div align=center>
- <h3> Hi, Everyone.😊 I'm ChanHo Kim 🖐️ </h3>
+ <b> Hi, Everyone.😊 I'm ChanHo Kim 🖐️ </b> <br>
  <b>I'm majoring in computer science at Kyungpook National University.</b>  <br>
  <b>I'm interested in AI and Computer Vision.</b>   <br>
  <b>So,I am currently working as an undergraduate researcher at <a href="https://sites.google.com/view/k-vislab">VISLAB</a>. </b>  <br>
