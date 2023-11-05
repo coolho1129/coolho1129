@@ -44,6 +44,10 @@
           <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
           <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
         </a>
+   <h3>Top Languages</h3>
+    <a href="https://github.com/CoolHo1129">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook" alt="Top Languages Card">
+    </a>
 </div>  
 <br><br>
 <div align=center> 
@@ -82,17 +86,10 @@
 
 
 <div align=center> 
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/CoolHo1129">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook" alt="Top Languages Card">
-  </a>
-  
   <!-- Solved.ac Profile Badge -->
   <a href="https://solved.ac/coolho123/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
   </a>
-
 
   <!-- Anurag's GitHub Stats Card -->
   <a href="https://github.com/CoolHo1129">
