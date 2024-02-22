@@ -15,7 +15,6 @@
  <b> Hi, Everyone.😊 I'm ChanHo Kim 🖐️ </b> <br>
  <b>I'm majoring in computer science at Kyungpook National University.</b>  <br>
  <b>I'm interested in AI and Computer Vision.</b>   <br>
- <b>So,I am currently working as an undergraduate researcher at <a href="https://sites.google.com/view/k-vislab">VISLAB</a>. </b>  <br>
  <b>So,I'm currently studying machine learning, deep learning, and computer vision.</b> <br>
  <b>I will work hard in research and study to become a good AI researcher and engineer. </b>
 </div>
