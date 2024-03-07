@@ -67,18 +67,20 @@
 </div>
 <div align=center> 
   <h1>🤔Interest🤔</h1>
-    <b>Computer Vision</b><br> 
-    <b>Gernative model</b><br> 
+    <b>Computer Vision</b><br>
     <b>Deep Learning</b><br> 
-    <b>Machine Learning</b><br> 
     <b>Reinforcement Learning</b><br> 
+    <b>Zero shot learning</b><br>
+    <b>Self supervised learning</b><br>
+    <b>Data augmentation</b><br>
+    <b>Object detection image segmentation</b><br> 
+    
 </div>
 <div align=center> 
   <h1>📖Current Study📖</h1>
-    <b>Machine Learning</b><br> 
-    <b>Object Detection</b><br>   
-    <b>Segmentation</b><br>   
-    <b>GAN</b><br>  
+    <b>Vision transformer</b><br> 
+    <b>Zero shot learning</b><br>    
+    <b>Self supervised learning</b><br>
 </div>
 <br><br>
 
