@@ -61,12 +61,12 @@
 </div>
 <br>
 <div align=center> 
-  <h1>📫Contact📫</h1>
+  <h1>📫Contact</h1>
     <a href="mailto:coolho123@knu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
     <a href="mailto:coolho123@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 </div>
 <div align=center> 
-  <h1>🤔Interest🤔</h1>
+  <h1>🤔Interest</h1>
     <b>Computer Vision</b><br>
     <b>Deep Learning</b><br> 
     <b>Reinforcement Learning</b><br> 
