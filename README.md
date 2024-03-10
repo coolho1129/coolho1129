@@ -77,7 +77,7 @@
     
 </div>
 <div align=center> 
-  <h1>📖Current Study📖</h1>
+  <h1>📖Current Study</h1>
     <b>Vision transformer</b><br> 
     <b>Zero shot learning</b><br>    
     <b>Self supervised learning</b><br>
