@@ -40,7 +40,7 @@
         </a>
    <h3>Top Languages</h3>
     <a href="https://github.com/CoolHo1129">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook" alt="Top Languages Card">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook,html,makefile,shell,css" alt="Top Languages Card">
     </a>
 </div>  
 <br><br>
