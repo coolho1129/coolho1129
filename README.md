@@ -64,20 +64,14 @@
   <h1>🤔Interest</h1>
     <b>Computer Vision</b><br>
     <b>Deep  Learning</b><br>
-    <b>Zero  Shot Learning</b><br>
     <b>Self  Supervised Learning</b><br>
-    <b>Data  Augmentation</b><br>
-    <b>Object Detection</b><br> 
-    <b>Image  Segmentation</b><br> 
-    <b>Object Tracking</b><br>
     <b>Action Recognition</b><br>
     
     
 </div>
 <div align=center> 
   <h1>📖Current Study</h1>
-    <b>Vision transformer</b><br> 
-    <b>Zero shot learning</b><br>    
+    <b>Vision transformer</b><br>  
     <b>Self supervised learning</b><br>
 </div>
 <br><br>
