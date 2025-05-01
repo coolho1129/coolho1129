@@ -5,11 +5,7 @@
   </a>
 </div>
 
-<div align=right>
-<a href="https://github.com/CoolHo1129">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoolHo1129%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false" alt="Visit CoolHo1129's GitHub">
-</a>
-</div>
+
 
 <div align=center>
  <b> Hi, Everyone.😊 I'm Chan-ho Kim 🖐️ </b> <br>
