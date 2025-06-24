@@ -11,7 +11,7 @@
 <h2>Hi everyone 😊 I'm Chan-ho Kim 🖐️</h2>
 
 <p>
-I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>, starting in <strong>September 2025</strong>.
+I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
 </p>
 
 <p>
