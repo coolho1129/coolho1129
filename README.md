@@ -8,12 +8,29 @@
 
 
 <div align=center>
- <b> Hi, Everyone.😊 I'm Chan-ho Kim 🖐️ </b> <br>
- <b> I'm a combined M.S./Ph.D. student at the Artificial Intelligence Graduate School (AIGS), UNIST, starting from September 2025.</b> <br>
- <b> I received my B.S. degree in Computer Science and Engineering from Kyungpook National University.</b>  <br>
- <b>Currently, I’m a member of the UNIST Vision and Learning Lab (UVLL), advised by Prof. Seungryul Baek.</b>   <br>
- <b>My research interests lie in Deep Learning, Computer Vision, and Vision-Language Models.</b> <br>
- <b>I'm committed to working hard in both research and study to become a skilled and impactful AI researcher and engineer. </b>
+<h2>Hi everyone 😊 I'm Chan-ho Kim 🖐️</h2>
+
+<p>
+I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>, starting from <strong>September 2025</strong>.
+</p>
+
+<p>
+I received my <strong>B.S. degree in Computer Science and Engineering</strong> from Kyungpook National University.
+</p>
+
+<p>
+Currently, I’m a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
+</p>
+
+<p>
+My research interests include <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, and <strong>Vision-Language Models</strong>.
+</p>
+
+<p>
+I'm dedicated to growing as an <strong>AI researcher and engineer</strong> through passionate research and continuous learning.
+</p>
+
+</div>
 </div>
 
 
