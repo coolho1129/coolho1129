@@ -9,7 +9,7 @@
 
 <div align=center>
  <b> Hi, Everyone.😊 I'm Chan-ho Kim 🖐️ </b> <br>
- <b> I am a combined MS/Ph.D student affiliated to the Artificial Intelligent Graduate School (AIGS) at UNIST since
+ <b> I am a combined MS/Ph.D student affiliated to the Artificial Intelligent Graduate School (AIGS) at UNIST since 2025 september </b> <br>
  <b> I received my B.S. degree in Computer Science and Engineering at Kyungpook National University.</b>  <br>
  <b>Currently, I’m a member of the UNIST Vision and Learning Lab (UVLL), advised by Prof. Seungryul Baek</b>   <br>
  <b>I'm currently studying Deep Learning, Computer Vision and Vision Language Model.</b> <br>
@@ -60,16 +60,16 @@
   <h1>🤔Interest</h1>
     <b>Computer Vision</b><br>
     <b>Deep  Learning</b><br>
-    <b>Action Recognition</b><br>
-    <b> 3D Reconstruction
+    <b>Vision Language Model </b><br>
+   
     
     
 </div>
 <div align=center> 
   <h1>📖Current Study</h1>
-    <b>Vision transformer</b><br>  
+    <b>Vision Language Model </b><br>  
     <b>Computer Vision</b><br>
-    <b>Action Recognition</b><br>
+    <b>Hand Pose Estimation and Reconstruction</b><br>
 </div>
 <br><br>
 
