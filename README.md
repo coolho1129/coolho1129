@@ -11,7 +11,7 @@
 <h2>Hi everyone 😊 I'm Chan-ho Kim 🖐️</h2>
 
 <p>
-I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>, starting from <strong>September 2025</strong>.
+I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>, starting in <strong>September 2025</strong>.
 </p>
 
 <p>
@@ -19,7 +19,7 @@ I received my <strong>B.S. degree in Computer Science and Engineering</strong> f
 </p>
 
 <p>
-Currently, I’m a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
+I'm currently a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
 </p>
 
 <p>
@@ -30,7 +30,6 @@ My research interests include <strong>Deep Learning</strong>, <strong>Computer V
 I'm dedicated to growing as an <strong>AI researcher and engineer</strong> through passionate research and continuous learning.
 </p>
 
-</div>
 </div>
 
 
