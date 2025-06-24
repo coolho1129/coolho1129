@@ -9,9 +9,10 @@
 
 <div align=center>
  <b> Hi, Everyone.😊 I'm Chan-ho Kim 🖐️ </b> <br>
- <b>I'm majoring in computer science at Kyungpook National University.</b>  <br>
- <b>I'm interested in AI and Computer Vision.</b>   <br>
- <b>So,I'm currently studying machine learning, deep learning, and computer vision.</b> <br>
+ <b> I am a combined MS/Ph.D student affiliated to the Artificial Intelligent Graduate School (AIGS) at UNIST since
+ <b> I received my B.S. degree in Computer Science and Engineering at Kyungpook National University.</b>  <br>
+ <b>Currently, I’m a member of the UNIST Vision and Learning Lab (UVLL), advised by Prof. Seungryul Baek</b>   <br>
+ <b>I'm currently studying Deep Learning, Computer Vision and Vision Language Model.</b> <br>
  <b>I will work hard in research and study to become a good AI researcher and engineer. </b>
 </div>
 
