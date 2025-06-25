@@ -37,14 +37,14 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
 
 <div align=center> 
   <h1> 🛠️Tech Stack🛠️ </h1>
-    <h3> 🤖AI Tech </h3>
+    <h3> 🤖AI </h3>
           <a href="https://github.com/CoolHo1129">
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
             <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
             <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"><br>
           </a>
-     <h3> 📚Other Tech </h3>
+     <h3> 📚Others </h3>
         <a href="https://github.com/CoolHo1129">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
