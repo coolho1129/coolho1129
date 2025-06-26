@@ -15,7 +15,7 @@ I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Int
 </p>
 
 <p>
-I received my <strong>B.S. degree in Computer Science and Engineering</strong> from Kyungpook National University.
+I received my <strong>B.S. degree in Computer Science and Engineering</strong> from <strong>Kyungpook National University</strong>.
 </p>
 
 <p>
