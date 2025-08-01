@@ -23,7 +23,7 @@ I'm currently a member of the <strong>UNIST Vision and Learning Lab (UVLL)</stro
 </p>
 
 <p>
-My research interests include <strong>Deep Learning</strong>, <strong>Computer Vision</strong>, and <strong>Vision-Language Models</strong>.
+My research interests include <strong>Deep Learning</strong>, <strong>Computer Vision</strong>,  <strong>3D Reconstruction</strong>and <strong>Vision-Language Models</strong>.
 </p>
 
 <p>
@@ -77,6 +77,7 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
   <h1>🤔Interest</h1>
     <b>Computer Vision</b><br>
     <b>Deep  Learning</b><br>
+    <b>3D Reconstruction</b><br>
     <b>Vision Language Model </b><br>
    
     
@@ -86,6 +87,7 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
   <h1>📖Current Study</h1>
     <b>Vision Language Model </b><br>  
     <b>Computer Vision</b><br>
+    <b>3D Reconstruction</b><br>
     <b>Hand Pose Estimation and Reconstruction</b><br>
 </div>
 <br><br>
