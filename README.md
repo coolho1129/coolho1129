@@ -70,7 +70,7 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
 <br>
 <div align=center> 
   <h1>📫Contact</h1>
-    <a href="mailto:coolho123@unist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:coolho1129@unist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   
 </div>
 <div align=center> 
