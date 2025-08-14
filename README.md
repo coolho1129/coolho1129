@@ -9,7 +9,9 @@
 
 <div align=center>
 <h2>Hi everyone 😊 I'm Chan-ho Kim 🖐️</h2>
-[📄 More About Me](https://coolho1129.github.io/about/) 
+<a href="https://coolho1129.github.io/about/">
+  <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="About Me"/>
+</a>
 
 <p>
 I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
