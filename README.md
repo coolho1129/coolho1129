@@ -9,6 +9,7 @@
 
 <div align=center>
 <h2>Hi everyone 😊 I'm Chan-ho Kim 🖐️</h2>
+[📄 More About Me](https://coolho1129.github.io/about/) 
 
 <p>
 I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
