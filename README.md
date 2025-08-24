@@ -8,10 +8,8 @@
 
 
 <div align=center>
-<h2>Hi everyone 😊 I'm Chanho Kim 🖐️</h2>
-<a href="https://coolho1129.github.io/about/">
-  <img src="https://img.shields.io/badge/About%20Me-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="About Me"/>
-</a>
+<h2>Hi everyone 😊 I'm Chanho Kim 🖐️ </h2>
+
 
 <p>
 I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
@@ -33,6 +31,16 @@ My research interests include <strong>Deep Learning</strong>, <strong>Computer V
 I'm dedicated to growing as an <strong>AI researcher and engineer</strong> through passionate research and continuous learning.
 </p>
 
+<p>
+    If you'd like to know more, check out my 
+  <a href="https://coolho1129.github.io/about/" style="font-weight:bold; color:#0366d6;">
+    <strong>About Me</strong>
+  </a>
+</p>
+
+
+
+ 
 </div>
 
 
