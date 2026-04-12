@@ -104,15 +104,14 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
 <br><br>
 
 
-
+ <!-- Solved.ac Profile Badge -->
 <!-- <div align=center> 
-  <!-- Solved.ac Profile Badge -->
   <a href="https://solved.ac/coolho123/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
   </a> -->
 
 
-</div>
+<!-- </div> -->
 
 
 
