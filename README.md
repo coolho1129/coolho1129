@@ -62,10 +62,10 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
           <img src="https://img.shields.io/badge/Java-FB923C?style=for-the-badge&logo=OpenJDK&logoColor=white">
           <img src="https://img.shields.io/badge/Pypy-193440?style=for-the-badge&logo=pypy&logoColor=white"> 
         </a>
-   <h3>Top Languages</h3>
+   <!-- <h3>Top Languages</h3>
     <a href="https://github.com/CoolHo1129">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook,html,makefile,shell,css" alt="Top Languages Card">
-    </a>
+    </a> -->
 </div>  
 <br><br>
 <div align=center> 
@@ -105,11 +105,11 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
 
 
 
-<div align=center> 
+<!-- <div align=center> 
   <!-- Solved.ac Profile Badge -->
   <a href="https://solved.ac/coolho123/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
-  </a>
+  </a> -->
 
 
 </div>
