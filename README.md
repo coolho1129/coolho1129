@@ -44,9 +44,8 @@ I am passionate about developing intelligent systems that can understand and rec
 <h1>📬 Contact</h1>
 
 <a href="mailto:coolho1129@unist.ac.kr">
-  <img src="https://img.shields.io/badge/Official Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Official%20Email-7EBAD6?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
-
 </div>
 
 <br>
