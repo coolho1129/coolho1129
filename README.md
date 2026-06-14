@@ -43,12 +43,12 @@ I am passionate about developing intelligent systems that can understand and rec
 
 <h1>📬 Contact</h1>
 
-<a href="mailto:coolho1129@unist.ac.kr">
-  <img src="https://img.shields.io/badge/Official%20Email-7EBAD6?style=for-the-badge&logo=maildotru&logoColor=white"/>
-</a>
+📧 <a href="mailto:coolho1129@unist.ac.kr"><strong>Email</strong></a> •
+👨‍💻 <a href="https://www.linkedin.com/in/chanho-kim-891a542a2"><strong>LinkedIn</strong></a>
+
 </div>
 
-<br>
+
 
 <div align=center>
 
