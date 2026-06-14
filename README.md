@@ -45,6 +45,7 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 📧 <a href="mailto:coolho1129@unist.ac.kr"><strong>Email</strong></a> •
 🔗 <a href="https://www.linkedin.com/in/chanho-kim-891a542a2"><strong>LinkedIn</strong></a>
+📚 <a href="https://scholar.google.com/citations?user=SW-_ah8AAAAJ&hl=ko"><strong>Scholar</strong></a>
 
 </div>
 
