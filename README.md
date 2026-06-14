@@ -10,15 +10,15 @@
 <h2>Hi there 👋 I'm Chanho Kim</h2>
 
 <p>
-I'm a <strong>Combined M.S./Ph.D. Student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>.
+<strong>Combined M.S./Ph.D. Student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
 </p>
 
 <p>
-I received my <strong>B.S. degree in Computer Science and Engineering</strong> from <strong>Kyungpook National University</strong>.
+B.S. in Computer Science and Engineering, <strong>Kyungpook National University</strong>
 </p>
 
 <p>
-I'm currently a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
+Member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>
 </p>
 
 <p>
@@ -26,7 +26,7 @@ My research interests lie in <strong>Computer Vision</strong>, <strong>3D Vision
 </p>
 
 <p>
-I am passionate about developing intelligent systems that can understand and reconstruct the visual world.
+I am interested in advancing visual understanding and 3D reconstruction through deep learning.
 </p>
 
 <p>
@@ -44,11 +44,11 @@ I am passionate about developing intelligent systems that can understand and rec
 <h1>📬 Contact</h1>
 
 📧 <a href="mailto:coolho1129@unist.ac.kr"><strong>Email</strong></a> •
-👨‍💻 <a href="https://www.linkedin.com/in/chanho-kim-891a542a2"><strong>LinkedIn</strong></a>
+🔗 <a href="https://www.linkedin.com/in/chanho-kim-891a542a2"><strong>LinkedIn</strong></a>
 
 </div>
 
-
+<br><br>
 
 <div align=center>
 
