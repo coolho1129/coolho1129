@@ -104,7 +104,7 @@ I'm dedicated to growing as an <strong>AI researcher and engineer</strong> throu
 <br><br>
 
 <div align=center>
-  <h3>📊 Problem Solving</h3>
+  <h1>📊 Problem Solving</h1>
    <div align=center> 
     <a href="https://solved.ac/coolho123/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
