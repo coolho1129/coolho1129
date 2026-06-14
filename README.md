@@ -41,6 +41,14 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <div align=center>
 
+<h1>📫 Contact</h1>
+
+<a href="mailto:coolho1129@unist.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 <h1>🔬 Research Interests</h1>
 
 <b>Computer Vision</b><br> <b>3D Vision</b><br> <b>Vision-Language Models</b><br> <b>Deep Learning</b><br>
@@ -102,13 +110,7 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <div align=center>
 
-<h1>📫 Contact</h1>
 
-<a href="mailto:coolho1129@unist.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 
 
