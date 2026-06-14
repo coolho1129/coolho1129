@@ -10,15 +10,15 @@
 <h2>Hi there 👋 I'm Chanho Kim</h2>
 
 <p>
-<strong>Combined M.S./Ph.D. Student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
+I'm a <strong>Combined M.S./Ph.D. Student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>.
 </p>
 
 <p>
-B.S. in Computer Science and Engineering, <strong>Kyungpook National University</strong>
+I received my <strong>B.S. degree in Computer Science and Engineering</strong> from <strong>Kyungpook National University</strong>.
 </p>
 
 <p>
-Member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>
+I'm currently a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
 </p>
 
 <p>
@@ -43,13 +43,13 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <h1>🔬 Research Interests</h1>
 
-Computer Vision • 3D Vision • Vision-Language Models • Deep Learning
+<b>Computer Vision</b><br> <b>3D Vision</b><br> <b>Vision-Language Models</b><br> <b>Deep Learning</b><br>
 
 </div>
 
 <br><br>
 
-<div align=center>
+<div align=center> 
 
 <h1>🛠️ Tech Stack</h1>
 
@@ -71,7 +71,7 @@ Computer Vision • 3D Vision • Vision-Language Models • Deep Learning
 
 <br><br>
 
-<div align=center>
+<div align=center> 
 
 <h1>🛠️ Tools</h1>
 
@@ -108,16 +108,9 @@ Computer Vision • 3D Vision • Vision-Language Models • Deep Learning
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://coolho1129.github.io">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolho1129&&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--github--!>
