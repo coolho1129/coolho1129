@@ -5,114 +5,119 @@
   </a>
 </div>
 
-
-
 <div align=center>
-<h2>Hi everyone 😊 I'm Chanho Kim 🖐️ </h2>
 
+<h2>Hi there 👋 I'm Chanho Kim</h2>
 
 <p>
-I'm a <strong>combined M.S./Ph.D. student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
+<strong>Combined M.S./Ph.D. Student</strong> at the <strong>Artificial Intelligence Graduate School (AIGS), UNIST</strong>
 </p>
 
 <p>
-I received my <strong>B.S. degree in Computer Science and Engineering</strong> from <strong>Kyungpook National University</strong>.
+B.S. in Computer Science and Engineering, <strong>Kyungpook National University</strong>
 </p>
 
 <p>
-I'm currently a member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>.
+Member of the <strong>UNIST Vision and Learning Lab (UVLL)</strong>, advised by <strong>Prof. Seungryul Baek</strong>
 </p>
 
 <p>
-My research interests include <strong>Deep Learning</strong>, <strong>Computer Vision</strong>,  <strong>3D Reconstruction</strong> and <strong>Vision-Language Models</strong>.
+My research interests lie in <strong>Computer Vision</strong>, <strong>3D Vision</strong>, <strong>Vision-Language Models</strong>, and <strong>Deep Learning</strong>.
 </p>
 
 <p>
-I'm dedicated to growing as an <strong>AI researcher and engineer</strong> through passionate research and continuous learning.
+I am interested in advancing visual understanding and 3D reconstruction through deep learning.
 </p>
 
 <p>
-    If you'd like to know more, check out my 
-  <a href="https://coolho1129.github.io/about/" style="font-weight:bold; color:#0366d6;">
-    <strong>About Me</strong>
-  </a>
+<a href="https://coolho1129.github.io/about/">
+<strong>🌐 About Me</strong>
+</a>
 </p>
 
-
-
- 
 </div>
 
-
-
-
-<div align=center> 
-  <h1> 🛠️Tech Stack🛠️ </h1>
-    <h3> 🤖Artificial Intelligence </h3>
-          <a href="https://github.com/CoolHo1129">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-            <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-            <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-            <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"><br>
-          </a>
-     <h3> 📚Others </h3>
-        <a href="https://github.com/CoolHo1129">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-FB923C?style=for-the-badge&logo=OpenJDK&logoColor=white">
-          <img src="https://img.shields.io/badge/Pypy-193440?style=for-the-badge&logo=pypy&logoColor=white"> 
-        </a>
-   <!-- <h3>Top Languages</h3>
-    <a href="https://github.com/CoolHo1129">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoolHo1129&&layout=compact&hide=jupyter%20notebook,html,makefile,shell,css" alt="Top Languages Card">
-    </a> -->
-</div>  
-<br><br>
-<div align=center> 
-  <h1> 👪Cowork Tools👪 </h1>
-    <a href="https://github.com/CoolHo1129">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"> <br> 
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
-          <img src="https://img.shields.io/badge/Goolgle Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    </a>
-</div>
 <br>
-<div align=center> 
-  <h1>📫Contact</h1>
-    <a href="mailto:coolho1129@unist.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  
+
+<div align=center>
+
+<h1>🔬 Research Interests</h1>
+
+Computer Vision • 3D Vision • Vision-Language Models • Deep Learning
+
 </div>
-<div align=center> 
-  <h1>🤔Interest</h1>
-    <b>Computer Vision</b><br>
-    <b>Deep  Learning</b><br>
-    <b>3D Reconstruction</b><br>
-    <b>Vision Language Model </b><br>
-   
-    
-    
-</div>
-<div align=center> 
-  <h1>📖Current Study</h1>
-    <b>Vision Language Model </b><br>  
-    <b>Computer Vision</b><br>
-    <b>3D Reconstruction</b><br>
-    <b>Hand Pose Estimation and Reconstruction</b><br>
-</div>
+
 <br><br>
 
 <div align=center>
-  <h1>📊 Problem Solving</h1>
-   <div align=center> 
-    <a href="https://solved.ac/coolho123/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
-    </a> 
+
+<h1>🛠️ Tech Stack</h1>
+
+<h3>🤖 Artificial Intelligence</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+<br><br>
+
+<h3>📚 Programming</h3>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-FB923C?style=for-the-badge&logo=OpenJDK&logoColor=white">
+
+</div>
+
+<br><br>
+
+<div align=center>
+
+<h1>🛠️ Tools</h1>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<br>
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+</div>
+
+<br><br>
+
+<div align=center>
+
+<h1>📊 Problem Solving</h1>
+
+<a href="https://solved.ac/coolho123/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=coolho123" alt="Solved.ac Profile Badge">
+</a>
+
+</div>
+
+<br><br>
+
+<div align=center>
+
+<h1>📫 Contact</h1>
+
+<a href="mailto:coolho1129@unist.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://coolho1129.github.io">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</div>
 
 
- </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolho1129&&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--github--!>
