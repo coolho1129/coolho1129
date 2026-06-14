@@ -26,7 +26,7 @@ My research interests lie in <strong>Computer Vision</strong>, <strong>3D Vision
 </p>
 
 <p>
-I am interested in advancing visual understanding and 3D reconstruction through deep learning.
+I am passionate about developing intelligent systems that can understand and reconstruct the visual world.
 </p>
 
 <p>
@@ -41,7 +41,7 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <div align=center>
 
-<h1>📫 Contact</h1>
+<h1>📬 Contact</h1>
 
 <a href="mailto:coolho1129@unist.ac.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -49,15 +49,19 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 </div>
 
+<br>
+
+<div align=center>
+
 <h1>🔬 Research Interests</h1>
 
-<b>Computer Vision</b><br> <b>3D Vision</b><br> <b>Vision-Language Models</b><br> <b>Deep Learning</b><br>
+<b>Computer Vision</b><br> <b>3D Vision</b><br> <b>Vision-Language Models</b><br> <b>Deep Learning</b>
 
 </div>
 
 <br><br>
 
-<div align=center> 
+<div align=center>
 
 <h1>🛠️ Tech Stack</h1>
 
@@ -79,9 +83,9 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <br><br>
 
-<div align=center> 
+<div align=center>
 
-<h1>🛠️ Tools</h1>
+<h1>👪 Collaboration Tools</h1>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -106,9 +110,7 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 </div>
 
-<br><br>
 
-<div align=center>
 
 
 
