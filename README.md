@@ -55,7 +55,10 @@ I am interested in advancing visual understanding and 3D reconstruction through 
 
 <h1>🔬 Research Interests</h1>
 
-<b>Computer Vision</b><br> <b>3D Vision</b><br> <b>Vision-Language Models</b><br> <b>Deep Learning</b>
+<b>Computer Vision</b><br>
+<b>3D Vision & Reconstruction</b><br>
+<b>Vision-Language Models</b><br>
+<b>Multimodal AI</b>
 
 </div>
 
